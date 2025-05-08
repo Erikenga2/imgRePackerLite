@@ -19,7 +19,7 @@ This version provides a straightforward installer and a simple interface, perfec
 ## Download
 
 You can download the latest version here:  
-🔗 [Download imgRePacker Lite for Windows](https://github.com/Erikenga2/imgRePackerLite/blob/main/ImgRePackerlite_setup.exe)
+🔗 [Download imgRePacker Lite for Windows](ImgRePackerlite_setup.exe)
 
 ---
 
